@@ -3,6 +3,7 @@ Built using OpenWeather API for live weather and air quality data. Use of GeoLoc
 
 CoreLocation library was also used for the geographical decoding of coordinates
 
+Features:
 
 Home Page View
 
